@@ -67,7 +67,7 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
