@@ -72,13 +72,13 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark&hide_border=false" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark&hide_border=false" />
 
 </div>
 
