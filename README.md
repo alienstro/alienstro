@@ -1,19 +1,5 @@
 <h2 align="left">Hi 👋! My name is Robinx Prhnyz Aquino and I'm a Full-Stack Developer, from the Philippines!</h2>
 
-###
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark&hide_border=false" />
-
-</div>
 
 ###
 
@@ -75,6 +61,23 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+###
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark&hide_border=false" />
+
+</div>
+
+
 
 ###
 
