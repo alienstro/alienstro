@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Robinx Prhnyz Aquino and I like coding, from the Philippines!</h2>
+<h2 align="left">Hi! My name is Robinx Prhnyz Aquino and I like coding, from the Philippines!</h2>
 
 
 ###
