@@ -71,9 +71,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=alienstro&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
