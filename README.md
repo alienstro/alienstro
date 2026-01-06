@@ -71,14 +71,9 @@
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-  <!-- GitHub Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <!-- Streak Stats -->
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark&hide_border=false" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alienstro&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alienstro&theme=dark&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alienstro&theme=dark)
 
 </div>
 
